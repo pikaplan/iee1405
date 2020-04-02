@@ -7,7 +7,7 @@ found on the [official page of this lab](https://sites.google.com/site/gtiteithe
 
 The spring semester of 2020 is taught online using [Discord](https://discordapp.com/download) for virtual classrooms and student groups. Inside each session a Zoom invitation is given for streaming up to 100 students for 40 minutes.
 ## Help
-* To start with Discord follow [these instructions](https://github.com/pikaplan/iee1204/blob/master/Help%20with%20Tools/Discord%20-%20Setup%20for%20Windows%20and%20Usage.pdf)
+* To start with Discord follow [these instructions](https://github.com/pikaplan/iee1204/blob/master/Help%20with%20Tools/Discord%20-%20Setup%20for%20Windows%20and%20Usage.pdf).
 
 ## Links
 * [Learn HTML on w3schools](https://www.w3schools.com/html/default.asp)
