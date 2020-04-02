@@ -3,7 +3,7 @@
 # Lab 1405 - Web Technologies and Languages
 ## Department of Information and Electronic Engineering (IEE) - International Hellenic University (IHU)
 In this repository you can find supplementary material related to this hands-on lesson. All mandatory exercises for the lab can be 
-found on the [official page of this lab](https://sites.google.com/site/gtiteithe/home)
+found on the [official page of this lab](https://sites.google.com/site/gtiteithe/home).
 
 The spring semester of 2020 is taught online using [Discord](https://discordapp.com/download) for virtual classrooms and student groups. Inside each session a Zoom invitation is given for streaming up to 100 students for 40 minutes.
 ## Help
